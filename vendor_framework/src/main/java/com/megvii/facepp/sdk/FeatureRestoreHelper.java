@@ -2,7 +2,7 @@ package com.megvii.facepp.sdk;
 
 import android.util.Log;
 
-import org.pixelexperience.faceunlock.vendor.utils.UnlockEncryptor;
+import com.crdroid.faceunlock.vendor.utils.UnlockEncryptor;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -1,4 +1,4 @@
-package org.pixelexperience.faceunlock.vendor.impl.megvii;
+package com.crdroid.faceunlock.vendor.impl.megvii;
 
 import android.content.Context;
 

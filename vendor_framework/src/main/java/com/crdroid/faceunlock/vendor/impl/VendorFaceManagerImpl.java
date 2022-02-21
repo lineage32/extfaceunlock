@@ -1,10 +1,10 @@
-package org.pixelexperience.faceunlock.vendor.impl;
+package com.crdroid.faceunlock.vendor.impl;
 
 import android.content.Context;
 
-import org.pixelexperience.faceunlock.vendor.VendorFaceManager;
+import com.crdroid.faceunlock.vendor.VendorFaceManager;
 import com.motorola.faceunlock.vendor.ArcImpl;
-import org.pixelexperience.faceunlock.vendor.impl.megvii.FacePPImpl;
+import com.crdroid.faceunlock.vendor.impl.megvii.FacePPImpl;
 
 public class VendorFaceManagerImpl extends VendorFaceManager {
 

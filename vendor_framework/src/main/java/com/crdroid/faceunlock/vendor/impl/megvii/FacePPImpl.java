@@ -1,14 +1,14 @@
-package org.pixelexperience.faceunlock.vendor.impl.megvii;
+package com.crdroid.faceunlock.vendor.impl.megvii;
 
 
 import android.content.Context;
 import android.util.Log;
 
-import org.pixelexperience.faceunlock.vendor.R;
-import org.pixelexperience.faceunlock.vendor.VendorFaceManager;
-import org.pixelexperience.faceunlock.vendor.constants.AppConstants;
-import org.pixelexperience.faceunlock.vendor.utils.CustomUnlockEncryptor;
-import org.pixelexperience.faceunlock.vendor.utils.SharedUtil;
+import com.crdroid.faceunlock.vendor.R;
+import com.crdroid.faceunlock.vendor.VendorFaceManager;
+import com.crdroid.faceunlock.vendor.constants.AppConstants;
+import com.crdroid.faceunlock.vendor.utils.CustomUnlockEncryptor;
+import com.crdroid.faceunlock.vendor.utils.SharedUtil;
 
 import java.io.File;
 

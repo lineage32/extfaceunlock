@@ -8,7 +8,7 @@ import android.util.Log;
 
 import com.megvii.facepp.sdk.jni.LiteApi;
 
-import org.pixelexperience.faceunlock.vendor.utils.UnlockEncryptor;
+import com.crdroid.faceunlock.vendor.utils.UnlockEncryptor;
 
 import java.nio.ByteBuffer;
 
